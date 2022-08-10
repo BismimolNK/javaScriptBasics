@@ -1,7 +1,7 @@
 export function dayRate(ratePerHour) {
     return ratePerHour*8;
   }
-  
+  /*comment
   /**
    * Calculates the number of days in a budget, rounded down
    *
